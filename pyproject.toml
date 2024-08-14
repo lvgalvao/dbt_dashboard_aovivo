@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.11"
 dbt-core = "^1.8.5"
 dbt-postgres = "^1.8.2"
+streamlit = "^1.37.1"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
