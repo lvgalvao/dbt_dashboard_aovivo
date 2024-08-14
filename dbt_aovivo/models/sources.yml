@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: investimentos # que eu quero chamar
+    schema: public
+    description: dados que vieram do backend do fabio
+    tables:
+      - name: fatura_jornada
+      - name: fatura_jornada_small
+      - name: fatura_redrex
+      - name: fatura_redrex_small
